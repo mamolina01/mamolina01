@@ -12,8 +12,6 @@
 
 <br>
 
-- A passionate self-taught Frontend Developer
-- Personal website [link](https://www.matiasnmolina.com)
 - :school: I am a `Computer Systems Engineering` Student at [National Technical University (UTN)](https://utn.edu.ar/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
